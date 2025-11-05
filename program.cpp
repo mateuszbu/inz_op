@@ -9,7 +9,7 @@ unsigned int fibonacci(unsigned int n) {
 }
 
 int main() {
-	unsigned int n;
+	int n;
 	std::cout << "Podaj liczbę: ";
 	std::cin >> n;
 
